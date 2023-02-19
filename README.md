@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## Hi ! This is Aymen Ben Hamida ,I'm a Student and a Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
 
-🎓 <b> Student at University of Issat sousse , Sousse <img src="[https://img.icons8.com/color/25/000000/france-circular.png](https://media.licdn.com/dms/image/C4D0BAQFlHKfPZYv8kg/company-logo_200_200/0/1519922260948?e=2147483647&v=beta&t=giZI5E4AmE9pk9HVgslZFt3XaRDV7qlsV2l_VCt2Yho)"/>
+🎓 <b> Student at University of Issat sousse , Sousse <img src="https://media.licdn.com/dms/image/C4D0BAQFlHKfPZYv8kg/company-logo_200_200/0/1519922260948?e=2147483647&v=beta&t=giZI5E4AmE9pk9HVgslZFt3XaRDV7qlsV2l_VCt2Yho"/>
 
-🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul <img src="[https://img.icons8.com/color/25/000000/tunisia-circular.png](https://www.developmentaid.org/files/organizationLogos/institut-superieur-des-etudes-technologiques-de-nabeul-isetn-346403.jpg)"/>
+🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul <img src="https://www.developmentaid.org/files/organizationLogos/institut-superieur-des-etudes-technologiques-de-nabeul-isetn-346403.jpg"/>
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI, Web Dev & Cyber Security
 - 📫 How to reach me: baymenemir@gmail.com
@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/fluency/30/4a90e2/instagram-new.png"/>][instagram]
 
 
-[twitter]: https://twitter.com/AmiraHaouet
-[facebook]: https://www.facebook.com/htamira/
-[instagram]: https://www.instagram.com/amirahaouet/
-[linkedin]: https://www.linkedin.com/in/amira-haouet/
+
+[facebook]: https://www.facebook.com/profile.php?id=100008241540077
+#[instagram]: https://www.instagram.com/amirahaouet/
+[linkedin]: https://www.linkedin.com/in/aymen-ben-hmida-a91203183/
 
 
 
