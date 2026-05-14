@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi ! This is Aymen Ben Hamida ,I'm a software engineer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
 
-🎓 <b> Student at University of Issat sousse , Sousse 
+🎓 <b> Graduated from the University of Issat sousse , Sousse 
 
 🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul
   
